@@ -1,6 +1,6 @@
 # Eigen-Kalman
 
-<https://github.com/vancegroup/eigen-kalman>
+<https://github.com/rpavlik/eigen-kalman>
 
 Classes to implement flexible Kalman-type filters using the great [Eigen
 matrix math template library][eigen]. Inspired by the design of the
@@ -19,28 +19,15 @@ is encouraged.
 
 Between the documentation in the header, and the sample programs in the
 main directory, you should hopefully be able to get the idea of how to
-use it. You might also see "glove-tools" for a sample "production" usage
+use it. You might also see [glove-tools][] for a sample "production" usage
 of this library.
 
+[glove-tools]: https://github.com/vancegroup/glove-tools
 
 ## Acknowledgement
-If you find this useful, we would appreciate hearing from you. If you
-use this for academic work, we would also appreciate a copy of the
-publication and a citation: this helps make a case for our work. You may
-contact the main developer, Ryan Pavlik (Iowa State University, Virtual
-Reality Applications Center), by email at <rpavlik@iastate.edu> or
-<abiryan@ryand.net>, or his advisor, Dr. Judy M. Vance, at
-<jmvance@iastate.edu>.
+If you find this useful, we would appreciate hearing from you. You may
+contact the main developer, Ryan Pavlik, by email at
+<ryan.pavlik@gmail.com> or <abiryan@ryand.net>.
 
-Paper materials and copies of publications may be mailed to:
-
-> Ryan Pavlik
->
-> Virtual Reality Applications Center
->
-> 1620 Howe Hall
->
-> Ames, Iowa 50011-2274
->
-> USA
-
+This was originally developed during graduate studies under Dr. Judy M. Vance,
+Iowa State University Virtual Reality Applications Center.
